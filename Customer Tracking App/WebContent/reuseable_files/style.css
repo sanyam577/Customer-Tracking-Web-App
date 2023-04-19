@@ -1,0 +1,18 @@
+.bg-custom{
+	background-color: rgb(106, 90, 205);
+}
+.bg-upper{
+	background-color: rgb(255, 203, 71);
+}
+.navbar .nav-item:hover .nav-link {
+	background-color: #78909c ;
+	color: #263238 ;
+	border-radius: 13px;
+}
+.text-center.text-danger {
+  text-decoration: underline;
+  text-underline-offset: 5px; 
+  font-weight: bold;
+}
+
+
